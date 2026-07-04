@@ -21,14 +21,14 @@ cd git-assignment-2
 git checkout -b writing
 
 2. Check which branch you are on: \
-git status \
+git status 
 It should say you are on branch `writing`.
 
-3. Push this branch to GitHub: \
+3. Push this branch to GitHub: 
 git push -u origin writing
 
 4. Make a change to the line below in this file: \
-WRITE YOUR SCHOOL + INTENDED MAJOR HERE
+American High school compute science
 
 5. Add, commit, and push your changes: \
 git add README.md \
